@@ -1,6 +1,6 @@
-### Hello and welcome! 👋 
+### Hi and welcome! 👋 
 
-## My name is Eddie and I am a recent CS grad from CSUN!
+## My name is Eddie and I am a recent CS grad from CSUN! 
 
 - 🌱 I’m currently learning REACT 
 - 👯 I’m looking to collaborate with other developers to build cool web apps
