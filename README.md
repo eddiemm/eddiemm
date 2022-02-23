@@ -2,10 +2,10 @@
 
 ## My name is Eddie and I am a recent CS grad from CSUN! 
 
-- 🌱 I’m currently learning REACT 
-- 👯 I’m looking to collaborate with other developers to build cool web apps
+- 🌱 I’m currently learning React and Sass
+- 👯 I’m looking to collaborate with other developers to learn new skills and solve interesting web problems
 - 🥅 2022 Goals: Contribute to open source projects and begin a career in web development
-- ⚡ Fun fact: I love exploring nature with my fiance Laura and my pup Luna! 
+- 📺 Unpopular Opinion: The Office > Friends
 
 ### Connect with me:
 
