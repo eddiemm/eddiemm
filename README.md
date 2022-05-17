@@ -1,6 +1,6 @@
 ### Hi and welcome! 👋 
 
-## My name is Eddie and I am a recent CS grad from CSUN! 
+## My name is Eddie and I love front-end development! 
 
 - 🌱 I’m currently studying React, Sass, and the Web Content Accessibility Guidelines (WCAG) provided by W3
 - 🙌 I’m looking to collaborate with other developers to learn new skills and solve interesting web problems
