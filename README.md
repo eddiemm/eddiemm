@@ -5,7 +5,10 @@
 - 🌱 I’m currently studying React, Sass, and the Web Content Accessibility Guidelines (WCAG) provided by W3
 - 🙌 I’m looking to collaborate with other developers to learn new skills and solve interesting web problems
 - 🥅 2022 Goals: Contribute to open source projects and begin a career in web development
-- 💻 Current project: My own front-end portfolio
+- 💻 Current project: My own front-end portfolio 
+
+### Portfolio: 
+[www.edgarmancia.com][Portfolio]
 
 ### Connect with me:
 
@@ -17,7 +20,7 @@
 
 <br />
 
-
+[Portfolio]: http://www.edgarmancia.com/
 [LinkedIn]: https://www.linkedin.com/in/edgarmancia/
 [Leetcode]: https://leetcode.com/eddiemm/
 [Codepen]: https://codepen.io/eddiemm
