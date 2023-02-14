@@ -13,7 +13,6 @@
 [<img align="left" alt="Edgar Mancia | LinkedIn" width="22px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" />][LinkedIn]
 [<img align="left" alt="Edgar Mancia | Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][Leetcode]
 [<img align="left" alt="Edgar Mancia | Codepen" width="22px" src="https://img.icons8.com/windows/32/000000/codepen.png" />][Codepen]
-[<img align="left" alt="Edgar Mancia | Instagram" width="22px" src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png" />][Instagram]
 
 
 <br />
