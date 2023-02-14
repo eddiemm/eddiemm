@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying React
 - 🙌 I’m looking to collaborate with other developers to learn new skills and solve interesting web problems
-- 🥅 2022 Goals: Contribute to open source projects and begin a career in web development
+- 🥅 2023 Goals: Contribute to open source projects and begin a career in web development
 - 💻 Current project: My own front-end portfolio 
 
 ### Portfolio: 
