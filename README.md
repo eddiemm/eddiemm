@@ -1,9 +1,9 @@
-### Edgar Mancia
+## Edgar Mancia
 
-## Portfolio: 
+### Portfolio: 
 [www.edgarmancia.com][Portfolio]
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="Edgar Mancia | LinkedIn" width="22px" src="https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png" />][LinkedIn]
 [<img align="left" alt="Edgar Mancia | Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][Leetcode]
