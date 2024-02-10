@@ -1,11 +1,6 @@
-### Edgar Mancia: Front End Enthusiast
+### Edgar Mancia
 
-- 🌱 I’m currently studying React
-- 🙌 I’m looking to collaborate with other developers to learn new skills and solve interesting web problems
-- 🥅 2023 Goals: Contribute to open source projects and begin a career in web development
-- 💻 Current project: My own front-end portfolio 
-
-### Portfolio: 
+## Portfolio: 
 [www.edgarmancia.com][Portfolio]
 
 ### Connect with me:
